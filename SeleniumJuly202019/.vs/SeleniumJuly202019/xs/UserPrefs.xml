@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{48E2822D-44CE-4BEA-812A-8794EDA0E966}|Default">
+  <MonoDevelop.Ide.ItemProperties.SeleniumJuly202019 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumJuly202019/UnitTest1.cs">
+    <Files>
+      <File FileName="SeleniumJuly202019/UnitTest1.cs" Line="65" Column="13" />
+      <File FileName="../SeleniumTest070619/SeleniumTest070619/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumJuly202019" expanded="True">
+            <Node name="SeleniumJuly202019" expanded="True">
+              <Node name="SeleniumJuly202019" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="LoginLogout" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

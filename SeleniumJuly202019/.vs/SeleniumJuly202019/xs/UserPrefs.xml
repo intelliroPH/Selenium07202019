@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{48E2822D-44CE-4BEA-812A-8794EDA0E966}|Default">
   <MonoDevelop.Ide.ItemProperties.SeleniumJuly202019 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumJuly202019/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumJuly202019/Lib/Methods.cs">
     <Files>
-      <File FileName="SeleniumJuly202019/UnitTest1.cs" Line="65" Column="13" />
-      <File FileName="../SeleniumTest070619/SeleniumTest070619/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SeleniumJuly202019/UnitTest1.cs" Line="7" Column="29" />
+      <File FileName="SeleniumJuly202019/Lib/Methods.cs" Line="38" Column="11" />
+      <File FileName="SeleniumJuly202019/Pages/Homepage.cs" Line="6" Column="1" />
+      <File FileName="SeleniumJuly202019/Tests/WithPOM.cs" Line="3" Column="52" />
+      <File FileName="SeleniumJuly202019/Pages/Dashboard.cs" Line="27" Column="1" />
     </Files>
     <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+      <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SeleniumJuly202019" expanded="True">
             <Node name="SeleniumJuly202019" expanded="True">
-              <Node name="SeleniumJuly202019" expanded="True">
-                <Node name="UnitTest1" expanded="True">
-                  <Node name="LoginLogout" selected="True" />
-                </Node>
+              <Node name="Lib" expanded="True">
+                <Node name="Methods.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True" />
             </Node>
           </Node>
         </State>

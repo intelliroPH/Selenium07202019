@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/airratic/Projects/SeleniumJuly202019/SeleniumJuly202019/SeleniumJuly202019.csproj": {}
+  },
+  "projects": {
+    "/Users/airratic/Projects/SeleniumJuly202019/SeleniumJuly202019/SeleniumJuly202019.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/airratic/Projects/SeleniumJuly202019/SeleniumJuly202019/SeleniumJuly202019.csproj",
+        "projectName": "SeleniumJuly202019",
+        "projectPath": "/Users/airratic/Projects/SeleniumJuly202019/SeleniumJuly202019/SeleniumJuly202019.csproj",
+        "packagesPath": "/Users/airratic/.nuget/packages/",
+        "outputPath": "/Users/airratic/Projects/SeleniumJuly202019/SeleniumJuly202019/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/airratic/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[75.0.3770.140, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
